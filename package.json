@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-npm",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "main": "1-globals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
